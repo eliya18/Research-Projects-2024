@@ -65,6 +65,8 @@ The teacher will evaluate the tutorials based on the documentation, presentation
 students evaluating. Once all tutorials evaluated, they will be included in this repository to make them available for
 everyone.
 
+*Important*: To submit it, you can create a new repo and share it with the teacher, to be then included here and make it available to your colleagues. 
+
 **Grade**:
 
 - tutorial documentation
@@ -87,6 +89,6 @@ NOTE: please update the file `"/research/authors.json"`  as stated above.
 
 ## Deadlines
 
-- For the tutorial documentation presentation May 13th 2023
+- For the tutorial documentation submission May 13th 2023
 - In Class presentation of each topic May 21st 2023
 - For the tutorial evaluation and feedback May 29th 2023
