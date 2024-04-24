@@ -75,8 +75,8 @@ everyone.
 
 | Team   |                                                    Presentation                                                     | Assignment 1 | Assignment 2 |
 |:-------|:-------------------------------------------------------------------------------------------------------------------:|:------------:|:------------:|
-| Team-1 | [Deploying Federated Learning on Docker Containers Across Multiple Servers in AWS](./tutorial-1/README.md)          |    Team-2    |    Team-3    |
-| Team-2 | [Containerization](./tutorial-2/README.md)                                                                          |    Team-3    |    Team-4    |
+| Team-1 | [Deploying Federated Learning on Instances/Docker Across Multiple Servers in AWS](./tutorial-1/README.md)           |    Team-2    |    Team-3    |
+| Team-2 | [Containerization in the Cloud](./tutorial-2/README.md)                                                             |    Team-3    |    Team-4    |
 | Team-3 | [AWS Glue](./tutorial-3/README.md)                                                                                  |    Team-4    |    Team-5    |
 | Team-4 | [Cloud Visualization Approaches](./tutorial-4/README.md)                                                            |    Team-5    |    Team-6    |
 | Team-5 | [AWS SageMaker](./tutorial-5/README.md)                                                                             |    Team-6    |    Team-7    |
