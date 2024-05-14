@@ -1,0 +1,5 @@
+To work with terraform 
+
+terraform init
+terraform apply
+terraform destroy
